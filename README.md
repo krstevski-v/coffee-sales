@@ -1,11 +1,13 @@
 # ☕ Coffee Sales Analytics Dashboard
 
-An interactive Tableau project exploring coffee sales and customer behavior across multiple dimensions. Built to uncover trends, identify key markets, and highlight performance insights.  
+An interactive Tableau project exploring coffee sales and customer behavior across multiple dimensions. Built to uncover trends, identify key markets, and highlight performance insights. 
+
+You can view the dashboard on my Tableau Public account by clicking on [this link](https://public.tableau.com/views/CoffeeShopDashboard_17615084777500/CustomerDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 ## 📊 Overview
 
-This dashboard is divided into **two main segments** — **Sales** and **Customers** — each designed to answer specific business questions and provide actionable insights.
+This dashboard is divided into **two main segments** - **Sales** and **Customers** - each designed to answer specific business questions and provide actionable insights.
 
 
 
