@@ -1,54 +1,35 @@
-# ☕ Coffee Sales Analytics Dashboard
-
-An interactive Tableau project exploring coffee sales and customer behavior across multiple dimensions. Built to uncover trends, identify key markets, and highlight performance insights. 
-
-You can view the dashboard on my Tableau Public account by clicking on [this link](https://public.tableau.com/views/CoffeeShopDashboard_17615084777500/CustomerDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+# ☕ Coffee Shop Dashboard
 
 
-## 📊 Overview
+## Overview & Key Features
+Interactive Tableau dashboard showing **sales performance and customer behavior** across multiple regions, product types and time periods. Features include:
+   1. **Global filtering** - The dashboard is fully interactive. Clicking on a filter on the filter menu, or at any data point on the screen will filter all other charts on the dashboard.
+   2. **Year-over-Year analysis** - All primary KPIs automatically compare performance for the selected year against the previous year.
+   3. **Detailed tooltips** - Hovering over any chart element reveals detailed information and exact figures. 
 
-This dashboard is divided into **two main segments** - **Sales** and **Customers** - each designed to answer specific business questions and provide actionable insights.
-
-
-
-## 🔹 Sales Dashboard
-
-Focuses on overall sales performance, profitability, and product mix.
-
-**Key Features:**
-1. **Monthly Sales & Quantity Analysis**  
-   - Total sales and item quantities sold per month for each year  
-   - Automatically highlights best and worst performing months
-
-2. **Sales and Profit Trends Over Time**  
-   - Dual-line analysis of sales vs. profit trends to identify growth patterns and seasonality
-
-3. **Sales by Coffee Roast Type & Size**  
-   - Segmented view showing the impact of roast preference and packaging size on revenue
-
-## 🔸 Customer Dashboard
-
-Centers around customer distribution and order frequency.
-
-**Key Features:**
-1. **Monthly Orders & Customers**  
-   - Total orders and number of unique customers by month and year  
-   - Highlights periods of strongest and weakest customer activity
-
-2. **Customer Count by Country**  
-   - Visual breakdown of customer base by geography, showing market reach and concentration
-
-3. **Orders per Customer Distribution**  
-   - Examines purchasing frequency and engagement levels
-
-4. **Top 10 Customers by Profit**  
-   - Identifies the most valuable customers driving the majority of profits
+You can view the dashboard on my Tableau Public account by clicking on [this link](https://public.tableau.com/views/CoffeeShopDashboard_17615084777500/SalesDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
-## 🚀 Goals
+The dashboard is split into two segments, each tackling different business problems:
+## 🔹 Sales
+   * Are sales and order volumes improving over the years? Which months do we typically hit highs and lows?
+   * Which coffee types and roast profiles drive the most revenue?
+   * Which product pack sizes are most popular and where should inventory focus land?
+   * How does profit track against sales over time?
 
-- Understand **sales performance** across time, roast type, and size  
-- Explore **customer behavior** by geography and engagement  
-- Identify **profit-driving products and customers**  
-- Provide a visually engaging, data-driven tool for coffee business insights  
+
+## 🔸 Customers
+   * How many active buyers and orders exist over the selected period?
+   * Where are customers located and how concentrated is customer value geographically?
+   * What is the typical order frequency?
+   * Who are our most profitable customers?
+
+## Who is the dashboard for & How do they benefit?
+   1. **Coffee shop owners and managers** who need a clear view of how sales, products and customers perform over time.
+        * Quickly identify seasonal peaks and slower months to plan promotions or staffing.
+   2. **Marketing and customer engagement teams** who want to understand buying patterns, top-value customers, and opportunities for retention campaigns.
+        * Spot customer concentration and loyalty patterns, enabling targeted marketing and retention programs.
+   3. **Operations and inventory planners** who must balance production and stock levels with real sales data and product mix.
+        * Understand which items drive revenue and margin, guiding procurement and menu decisions.
+
 
